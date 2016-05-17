@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Program Manager/Program Manager.vbproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program Manager/dlgNew.vb">
+    <Files>
+      <File FileName="Program Manager/CodeFile2.vb" Line="1" Column="1" />
+      <File FileName="Program Manager/CodeFile5.vb" Line="1" Column="1" />
+      <File FileName="Program Manager/CodeFile7.vb" Line="1" Column="1" />
+      <File FileName="Program Manager/CodeFile8.vb" Line="1" Column="1" />
+      <File FileName="Program Manager/dlgNew.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Program Manager" expanded="True">
+            <Node name="Program Manager" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="dlgNew.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
